@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alina Piccardo</h1>
-<h3 align="center">I'm Alina Piccardo, a Junior Full Stack Developer and Graphic Designer passionate about crafting digital experiences and creative design. 🎨💻</h3>
+<h3 align="center">A Junior Full Stack Developer and Graphic Designer passionate about crafting digital experiences and creative design. 🎨💻</h3>
 
 🔭 I’m currently working on exciting web development projects that combine my technical skills with my love for aesthetics.
 
